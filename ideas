@@ -25,22 +25,47 @@
 /* generally good ideas.  */
 /*  */
 /* If it were easy everyone would do it, so no one would do it. */
+/* Twitter Sentiment */
+/*  */
+To others it sounds a bit crazy. My close friend Anthony is one of the smartest 
+and wisest people I know. He studied finance in
+school and has always been a great sounding board for my crazy ideas. Often
+we'll grab drinks and talk for hours about investing, trading and general 
+finance.
 
-Twitter Sentiment
-
-In an attempt to find a mechanism by which I could generate ideas I came across
-this article. [Twitter Sentiment Article here]. YES! This was it. I'll just sit
-back and let the cumulative unconcious ferret out stocks for me to buy. 
+In late 2010 I was experimenting with many different strategies for finding
+companies to trade. It's one thing to research a company and determine if
+the company is worth buying, its another thing to find a list of companies
+to consider.  In an attempt to find a mechanism by which I could generate ideas 
+I came across this article. [Twitter Sentiment Article here]. YES! This was it. 
+I'll just sit back and let the cumulative unconcious ferret out stocks for me 
+to buy.
 
 I began to work out the logisitcs: 
+
   + consume the twitter api
   + find tweets that reference company names or ticker symbols
-  + use natural language processing to determine if the tweet is positive or 
+  + use natural language processing to determine if those tweets are positive or 
 negative
-  + profit
+  + profit :)
 
-Sounds like a great idea to some. To others it sounds a bit crazy. One of the 
-people who thought it was crazy w
+I sat down with Anthony and explained my latest plan. As always he kindly 
+listened and let me dream before gently letting me down. He advised that there
+are many different ways people pick stocks. Some more off the wall than others.
+In good faith he directed me away from tracking twitter sentiment and towards
+something a bit similar, but with, likely,  much more realistic potential: 
+Insider Trading.
+
+Care Package
+
+I joined the NV Army National Guard in 2007, in 2011 my unit deployed to 
+Afghanistan. It was a long hard year away from home and family. One of the 
+things that kept me going was recieving care packages. I recieved these
+pacakages from friends and family often and had great support from home.
+In the packages Anthony sent he always included books about investing and 
+finance. 
+
+
 
 - tony said dont do twitter
 - read this book
