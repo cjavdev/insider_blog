@@ -1,0 +1,95 @@
+Hooked
+
+In 2008 I bought my first stock. I remember watching TV while exercising at the 
+gym. The coverage at the time was all about TARP and bailing out auto
+manufactures. I remember watching a specific hearing where the CEO's of GM and
+Ford were questioned. Both companies were asking for a ton of money and claiming
+to be too big to fail. What I remember being the distinction between the two
+was that Ford was not saying it would fail, but rather would be in really bad 
+shape. Without the bailout they could make it, it just wouldn't be pretty. 
+Having zero experience with the stock market this motivated me to start 
+researching how to buy and sell stock. In the weeks just following this TV 
+broadcast I opened my first brokerage account and made my first buy: FORD.
+
+Needless to say I could've bought just about anything during that time period 
+and would have done well. The entire market was thrashed and had no where to go
+but up. Regardless, I was _hooked_. FORD made a great run and being an impulsive
+short term investor I sold after holding for less than a year to pay for a trip. 
+
+After this quick win I couldn't get enough. I even considered changing my major
+from Computer Science to Finance because I loved trading so much. 
+
+As a new trader I was spending a ton of time trying to find information about 
+where to generate ideas. I would google: "How to find stocks to buy." As 
+all investors know it's extremely hard to find good sources of ideas and 
+generally good ideas. 
+
+If it were easy everyone would do it, so no one would do it.
+
+Twitter Sentiment
+
+In an attempt to find a mechanism by which I could generate ideas I came across
+this article. [Twitter Sentiment Article here]. YES! This was it. I'll just sit
+back and let the cumulative unconcious ferret out stocks for me to buy. 
+
+I began to work out the logisitcs: 
+  + consume the twitter api
+  + find tweets that reference company names or ticker symbols
+  + use natural language processing to determine if the tweet is positive or 
+negative
+  + profit
+
+Sounds like a great idea to some. To others it sounds a bit crazy. One of the 
+people who thought it was crazy w
+
+- tony said dont do twitter
+- read this book
+- read the book and made version 1
+  - web based ide from Afghanistan
+  - little pop up windows
+  - night traders
+- read investment intelligence from insider trading
+- read one up on wall street
+- tested a ton of strategies and some data science techniques from graduate and
+  - wanted to build a ranking system to rank insiders and only follow the top ones
+  - put screen shots of the versions available from the google drive doc.
+  - market climate using cosine similarity between prices over a set period of frequencies
+
+undergraduate data classes built versions 2 and 3 in these classes.
+- tracked down George at UNR lecture
+  - started work at MICS and loved it
+  - learned a lot about how to analyze insider trades
+  - learned a lot about the finance industry and how the big dogs do things
+  - added some cool charting features and helped with the product in addition
+to analyzing and publishing about trades.
+
+- Every one is late to the party
+- No one has a solid mobile app
+- I want to get alerts and trade immediately
+- took some time off and came back after refreshing my tool set and with lean 
+eyes. What really matters is the alerts.
+- rewrote in node js
+- rewrote in ruby/rails 
+- wrote a mobile client in swift
+- rewrote in ionic framework
+- help from ryan with the flask app and advisement about how to approach the
+data problem again.
+- consider talking about testing and how the donwloader has 500+ specs for parsing
+- consider talking about how hard the barier to entry is
+- talk about features i'd like to add
+   -  proximity to IPO
+   -  tenure
+   -  proximity to non huge events (management changes. not earnings)
+   -  5% on a daily basis (signaled stocks)
+   -  20% overall since inception of stock
+   -  +1 additional buying after
+   -  Buy Up / Sell Down
+   -  Trade Surfaced
+   -  Reversal
+   -  Cluster
+   -  Unusually Large
+   -  Change to Plan
+
+
+Story of twitter to insider
+
