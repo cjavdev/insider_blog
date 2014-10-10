@@ -27,54 +27,205 @@
 /* If it were easy everyone would do it, so no one would do it. */
 /* Twitter Sentiment */
 /*  */
-To others it sounds a bit crazy. My close friend Anthony is one of the smartest 
-and wisest people I know. He studied finance in
-school and has always been a great sounding board for my crazy ideas. Often
-we'll grab drinks and talk for hours about investing, trading and general 
-finance.
+/* My close friend Anthony is one of the smartest and wisest people I know. He  */
+/* studied finance in school and has always been a great sounding board for my  */
+/* crazy ideas. Often we'll grab drinks and talk for hours about investing,  */
+/* trading and general finance. */
+/*  */
+/* In late 2010 I was experimenting with many different strategies for finding */
+/* companies to trade. It's one thing to research a company and determine if */
+/* the company is worth buying, its another thing to find a list of companies */
+/* to consider.  In an attempt to find a mechanism by which I could generate ideas  */
+/* I came across this article. [Twitter Sentiment Article here]. YES! This was it.  */
+/* I'll just sit back and let the cumulative unconcious ferret out stocks for me  */
+/* to buy. */
+/*  */
+/* I began to work out the logisitcs:  */
+/*  */
+/*   + consume the twitter api */
+/*   + find tweets that reference company names or ticker symbols */
+/*   + use natural language processing to determine if those tweets are positive or  */
+/* negative */
+/*   + profit :) */
+/*  */
+/* I sat down with Anthony and explained my latest plan. As always he kindly  */
+/* listened and let me dream before gently letting me down. He advised that there */
+/* are many different ways people pick stocks. Some more off the wall than others. */
+/* In good faith he directed me away from tracking twitter sentiment and towards */
+/* something a bit similar, but with, likely,  much more realistic potential:  */
+/* Insider Trading. */
 
-In late 2010 I was experimenting with many different strategies for finding
-companies to trade. It's one thing to research a company and determine if
-the company is worth buying, its another thing to find a list of companies
-to consider.  In an attempt to find a mechanism by which I could generate ideas 
-I came across this article. [Twitter Sentiment Article here]. YES! This was it. 
-I'll just sit back and let the cumulative unconcious ferret out stocks for me 
-to buy.
 
-I began to work out the logisitcs: 
 
-  + consume the twitter api
-  + find tweets that reference company names or ticker symbols
-  + use natural language processing to determine if those tweets are positive or 
-negative
-  + profit :)
-
-I sat down with Anthony and explained my latest plan. As always he kindly 
-listened and let me dream before gently letting me down. He advised that there
-are many different ways people pick stocks. Some more off the wall than others.
-In good faith he directed me away from tracking twitter sentiment and towards
-something a bit similar, but with, likely,  much more realistic potential: 
-Insider Trading.
 
 Care Package
 
-I joined the NV Army National Guard in 2007, in 2011 my unit deployed to 
-Afghanistan. It was a long hard year away from home and family. One of the 
-things that kept me going was recieving care packages. I recieved these
-pacakages from friends and family often and had great support from home.
-In the packages Anthony sent he always included books about investing and 
-finance. 
+I joined the NV Army National Guard in 2007, in 2011 my unit deployed to
+Afghanistan. It was a challenging year away from family and the niceties of
+home.  One of the things that kept me going was recieving care packages. I
+recieved these from friends and family often and had great support
+from home.  In the packages Anthony sent he always included books about
+investing and finance.
+
+One of the first books I recieved: [The Vital Few vs. the Trivial
+Many](http://www.amazon.com/The-Vital-Few-Trivial-Many/dp/0471681954). Inside
+were some basic insights into insider trading strategies. The book was
+primarily entertaining stories from the authors life. This gentle introduction
+to the insider strategies was just what I needed to start researching
+insider filings and learning to analyze trades.
+
+In the book,  Muzea says that after being in the stock market losers camp and
+recognizing there were some traders who were doing much better than he, that he 
+would devote his life to finding ways to find the smarter investors. After
+finding his way of monitoring what he called the Vital Few, he became a
+consistent stock market winner.
+
+I really enjoyed the anectdotes and felt I really related with the author.
+
+The major takeaways from his information on insider trading:
+
++  Big mistakes: 
+   - investing without a plan or strategy (Georges is top down and
+     will buy both growth and value stocks as long as they accompany insider
+     buying)
+   - following experts especially in the media
+   - investing at the wrong time
+
++  Be contrarian and find times where the public is selling and insiders are 
+buying, stay out until then (maybe years).
+
++  Look for divergences in insider behavior
+
++  There are two groups of insiders, one group consisting of about 70% of
+insiders trade on value, they buy when the book value is down and sell into
+strength. The other group buys into strength and might be a better indicator of
+momentum.
+
++  The officer title is important. CFO is likely money smarter than a director
+of some one off product.
 
 
 
-- tony said dont do twitter
-- read this book
-- read the book and made version 1
-  - web based ide from Afghanistan
-  - little pop up windows
-  - night traders
-- read investment intelligence from insider trading
+
+Night Traders
+
+While deployed my passion for investing not only grew but spread to other men
+in my unit. While working we would talk about new companies we were looking at
+and sharing things we learned from basic personal finance books.
+
+The timezone difference between Kandahar, Afghanistan and New York is 8.5
+hours.  This means that most of our trading happened at night. Because of this
+we named our small group of investors: Night Traders.
+
+After reading The Vital Few vs. the Trivial Many I first started including
+insider trading into my basic research, and eventually used insider as the lead
+generation tool, finding companies i should consider looking more into.
+
+I would sit for hours reading through the [most recent SEC
+filings](http://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent) and
+constantly refresh my browser to see the latest. Addictive at first, but then
+frustrating. New trades would show, but not always ones I thought were
+interesting. This active analysis was pretty good and I was able to make some
+really great trades from filings I read. The drawback: time commitment. I
+had to sit and watch as filings came in.
+
+
+No more refresh!
+
+Sick of refreshing!!! At somepoint during deployment I started to use my short 
+sprints of horrendously slow civilian satelite connections to develop
+a super rough draft of what would eventually become Insider AI.
+
+I found some a web based IDE (that probably no longer exists) that would run C# 
+in a sand box. With this I wrote a RSS Feed reader that would visit the recent
+filings every 15 seconds and using some basic rules would popup a raw javascript
+alert box letting me know that I should check the page.
+
+I told you it was a rough draft :)
+
+
+CS 457 Database Management Systems
+
+Just after deployment in 2012 during my last semester of undergrad I 
+took a class about databases where we were challenged to leverage some data
+science tools to do something interesting as a final project. Being passionate
+about insider trading I decided to collect all filings and run some analytics
+to test some of the theories I had read about and some others that I had 
+come up with over the year.
+
+Now for some stats:
+
++  4.16 Million forms downloaded
++  20 days to download
++  13 K Companies
++  150 K Insiders
+
+Tools used:
+
++  C# and WPF
++  [Libsvm](http://www.matthewajohnson.org/software/svm.html)
++  Microsoft SQL Server 2012
+
+Interesting insights from this project:
+
++  How to resolve the tens of different ticker symbol representations
++  How not to normalize the data too much when destructured from XBRL
++  How to calculate what I call "Similar Market Climate"
+
+
+Similar Market Climate
+
+One theory I had early on was that if a person traded a stock that had a certain
+price pattern as the same or even a different stock as a previous trade by 
+the same or even a different trader the performance following that trade
+might corelate. For example if a trader buys into strength and the chart has 
+generally a certain pattern, her company might be experiencing similar business
+as another company with the same pattern. 
+
+The solution to finding similar climate, I think is pretty clever and I wanted
+to share it with you.
+
+You can apply different periods, this is just what I used. 
+
+1) build a 12 (12 is arbitrary) dimensional vector of prices where each feature
+is a price measurement say once per month
+
+2) build a matrix of these vectors by sliding the starting month forward in
+time
+
+3) combine the resulting matricies of all companies of all time
+
+4) find the closest market climate stock and time by ordering the matrix by
+[cosine similarity](http://en.wikipedia.org/wiki/Cosine_similarity)
+
+* In the end I didn't actually use the concept of "Similar Market Climate" as
+part of the Insider AI algorithm, but it was a fun idea to develop and explore.
+
+Hiden Treasure
+
+In my humble opinion, ["Investment Intelligence from Insider Trading"](http://www.amazon.com/Investment-Intelligence-Insider-Trading-Seyhun/dp/0262692341) by Nejat Seyhun is the
+best resource for practical implementation of insider trading as a trading
+strategy. I highly recommend it :)
+
+I'll briefly cover a few of the topics here and then dive deeper to each in
+later posts.
+
+Within the pages Seyhun lies out his research and data from insider trading.
+
++ Officer title matters. A lot.
+  +  C level > Director > 10% owner
++ Price changes occur super soon after the trade
++ C level execs experience better than market average returns
++ combining insider with PE ratio and Price to book is interesting
+
+
 - read one up on wall street
+
+Peter Lynch specifies a few attributes of a perfect buy. He includes insider
+trading as one of those primary indicators.
+
+
+
 - tested a ton of strategies and some data science techniques from graduate and
   - wanted to build a ranking system to rank insiders and only follow the top ones
   - put screen shots of the versions available from the google drive doc.
