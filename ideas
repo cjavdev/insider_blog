@@ -56,8 +56,6 @@
 /* Insider Trading. */
 
 
-
-
 Care Package
 
 I joined the NV Army National Guard in 2007, in 2011 my unit deployed to
@@ -91,7 +89,17 @@ The major takeaways from his information on insider trading:
    - following experts especially in the media
    - investing at the wrong time
 
-+  Be contrarian and find times where the public is selling and insiders are 
++  Insider profile from Yahoo! could be valuable
+
++  Knowing how long an insider has been at a company is valuable
+
++  Knowing what the insiders current position is is valuable
+
++  Avoid buying any stock that insiders are selling into weakness
+
++  Consider a top down macro approach (what are all the insiders doing?)
+
++  Be contrarian and find times where the public is selling and insiders are
 buying, stay out until then (maybe years).
 
 +  Look for divergences in insider behavior
@@ -103,8 +111,6 @@ momentum.
 
 +  The officer title is important. CFO is likely money smarter than a director
 of some one off product.
-
-
 
 
 Night Traders
@@ -218,12 +224,10 @@ Within the pages Seyhun lies out his research and data from insider trading.
 + C level execs experience better than market average returns
 + combining insider with PE ratio and Price to book is interesting
 
-
 - read one up on wall street
 
 Peter Lynch specifies a few attributes of a perfect buy. He includes insider
 trading as one of those primary indicators.
-
 
 
 - tested a ton of strategies and some data science techniques from graduate and
@@ -265,6 +269,58 @@ data problem again.
    -  Cluster
    -  Unusually Large
    -  Change to Plan
-- consider a piece where i review different academic articles
-- talk about working on the secquery gem
-- 
+
+- technical pieces
+  - talk about working on the sec_query gem
+
+  - talk about working on the koudoku gem
+
+  - talk about working on the stock_quote gem
+
+  - talk about setting up passenger
+
+  - talk about setting up nginx with ssl
+
+  - talk about choosing a backend
+    + .Net
+    + Nodejs
+    + Rails w/ Flask microservice
+
+  - talk about choosing a mobile client
+    + Objective C
+    + phonegap
+    + Swift
+    + ionic
+
+  - talk about the objects used for notification system
+
+  - scipy and numpy
+
+  - talk about legal zoom
+    + didn't get the name right
+    + still don't have everything done
+
+
+- informational pieces
+  - consider a piece where i review different academic articles
+  - Who does the SEC consider an insider?
+    +  Officers
+    +  Directors
+    +  People who own 10% or more of a company
+
+  - When do insiders have to report?
+    + Any change in holdings must be reported to the SEC within two days
+    + Insiders are allowed to trade whenever they want, but if it can
+be proved that they traded on information that was not public they can be
+sued for treble damages in civil court and have to forfeit their profit 
+back to the company.
+
+  - Why does the public get to know when insiders trade?
+    + its part of the freedom of information act
+
+  - Why do buy ideas expire automatically in 3 months?
+    + realistically speaking insiders only really have about 6 months of visibility
+on how the company will do
+    + in an attempt to be conservative and take advantage of the biggest price
+movement we expire ideas after 3 months
+
