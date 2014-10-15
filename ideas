@@ -55,86 +55,91 @@
 /* something a bit similar, but with, likely,  much more realistic potential:  */
 /* Insider Trading. */
 
+/*  */
+/* Care Package */
+/*  */
+/* I joined the NV Army National Guard in 2007, in 2011 my unit deployed to */
+/* Afghanistan. It was a challenging year away from family and the niceties of */
+/* home.  One of the things that kept me going was recieving care packages. I */
+/* recieved these from friends and family often and had great support */
+/* from home.  In the packages Anthony sent he always included books about */
+/* investing and finance. */
+/*  */
+/* One of the first books I recieved: [The Vital Few vs. the Trivial */
+/* Many](http://www.amazon.com/The-Vital-Few-Trivial-Many/dp/0471681954). Inside */
+/* were some basic insights into insider trading strategies. The book was */
+/* primarily entertaining stories from the authors life. This gentle introduction */
+/* to the insider strategies was just what I needed to start researching */
+/* insider filings and learning to analyze trades. */
+/*  */
+/* In the book,  Muzea says that after being in the stock market losers camp and */
+/* recognizing there were some traders who were doing much better than he, that he  */
+/* would devote his life to finding ways to find the smarter investors. After */
+/* finding his way of monitoring what he called the Vital Few, he became a */
+/* consistent stock market winner. */
+/*  */
+/* I really enjoyed the anectdotes and felt I really related with the author. */
+/*  */
+/* The major takeaways from his information on insider trading: */
+/*  */
+/* +  Big mistakes: */
+/*    - investing without a plan or strategy (Georges is top down and */
+/*      will buy both growth and value stocks as long as they accompany insider */
+/*      buying) */
+/*    - following experts especially in the media */
+/*    - investing at the wrong time */
+/*  */
+/* +  Insider profile from Yahoo! could be valuable */
+/*  */
+/* +  Knowing how long an insider has been at a company is valuable */
+/*  */
+/* +  Knowing what the insiders current position is is valuable */
+/*  */
+/* +  Avoid buying any stock that insiders are selling into weakness */
+/*  */
+/* +  Consider a top down macro approach (what are all the insiders doing?) */
+/*  */
+/* +  Be contrarian and find times where the public is selling and insiders are */
+/* buying, stay out until then (maybe years). */
+/*  */
+/* +  Look for divergences in insider behavior */
+/*  */
+/* +  There are two groups of insiders, one group consisting of about 70% of */
+/* insiders trade on value, they buy when the book value is down and sell into */
+/* strength. The other group buys into strength and might be a better indicator of */
+/* momentum. */
+/*  */
+/* +  The officer title is important. CFO is likely money smarter than a director */
+/* of some one off product. */
+/*  */
 
-Care Package
-
-I joined the NV Army National Guard in 2007, in 2011 my unit deployed to
-Afghanistan. It was a challenging year away from family and the niceties of
-home.  One of the things that kept me going was recieving care packages. I
-recieved these from friends and family often and had great support
-from home.  In the packages Anthony sent he always included books about
-investing and finance.
-
-One of the first books I recieved: [The Vital Few vs. the Trivial
-Many](http://www.amazon.com/The-Vital-Few-Trivial-Many/dp/0471681954). Inside
-were some basic insights into insider trading strategies. The book was
-primarily entertaining stories from the authors life. This gentle introduction
-to the insider strategies was just what I needed to start researching
-insider filings and learning to analyze trades.
-
-In the book,  Muzea says that after being in the stock market losers camp and
-recognizing there were some traders who were doing much better than he, that he 
-would devote his life to finding ways to find the smarter investors. After
-finding his way of monitoring what he called the Vital Few, he became a
-consistent stock market winner.
-
-I really enjoyed the anectdotes and felt I really related with the author.
-
-The major takeaways from his information on insider trading:
-
-+  Big mistakes: 
-   - investing without a plan or strategy (Georges is top down and
-     will buy both growth and value stocks as long as they accompany insider
-     buying)
-   - following experts especially in the media
-   - investing at the wrong time
-
-+  Insider profile from Yahoo! could be valuable
-
-+  Knowing how long an insider has been at a company is valuable
-
-+  Knowing what the insiders current position is is valuable
-
-+  Avoid buying any stock that insiders are selling into weakness
-
-+  Consider a top down macro approach (what are all the insiders doing?)
-
-+  Be contrarian and find times where the public is selling and insiders are
-buying, stay out until then (maybe years).
-
-+  Look for divergences in insider behavior
-
-+  There are two groups of insiders, one group consisting of about 70% of
-insiders trade on value, they buy when the book value is down and sell into
-strength. The other group buys into strength and might be a better indicator of
-momentum.
-
-+  The officer title is important. CFO is likely money smarter than a director
-of some one off product.
-
+===
 
 Night Traders
 
-While deployed my passion for investing not only grew but spread to other men
-in my unit. While working we would talk about new companies we were looking at
-and sharing things we learned from basic personal finance books.
+While deployed, my passion for investing not only grew but spread to other guys
+in my unit. We would talk about new companies we were considering and sharing 
+things we learned from books on personal finance, investing and trading.
 
 The timezone difference between Kandahar, Afghanistan and New York is 8.5
-hours.  This means that most of our trading happened at night. Because of this
-we named our small group of investors: Night Traders.
+hours.  This meant that most of our trading happened at night. We named our 
+small group of investors: Night Traders.
 
-After reading The Vital Few vs. the Trivial Many I first started including
-insider trading into my basic research, and eventually used insider as the lead
-generation tool, finding companies i should consider looking more into.
+In a previous post I mentioned The Vital Few vs. the Trivial Many.
+When I was still reading the book I started including insider trading into my 
+stock research. Eventually insider trading became a lead generation tool, finding 
+companies I would consider. The other Night Traders couldn't wait to get in on
+it :)
 
-I would sit for hours reading through the [most recent SEC
+Hours were spent reading through the [most recent SEC
 filings](http://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent) and
 constantly refresh my browser to see the latest. Addictive at first, but then
 frustrating. New trades would show, but not always ones I thought were
 interesting. This active analysis was pretty good and I was able to make some
-really great trades from filings I read. The drawback: time commitment. I
-had to sit and watch as filings came in.
+really great trades from filings I read. The drawback: time commitment. I had
+to sit and watch as filings came in.
 
+===
 
 No more refresh!
 
@@ -142,22 +147,23 @@ Sick of refreshing!!! At somepoint during deployment I started to use my short
 sprints of horrendously slow civilian satelite connections to develop
 a super rough draft of what would eventually become Insider AI.
 
-I found some a web based IDE (that probably no longer exists) that would run C# 
-in a sand box. With this I wrote a RSS Feed reader that would visit the recent
-filings every 15 seconds and using some basic rules would popup a raw javascript
-alert box letting me know that I should check the page.
+There was some a web based IDE (that probably no longer exists) that would run 
+C# and ASP.NET. With this I wrote a RSS Feed reader that would poll the recent
+filings every 15 seconds. Using some basic filters based on recommendations from
+The Vital Few vs. Trivial Many it would popup an alert box  "Check the Page!"
 
 I told you it was a rough draft :)
 
+===
 
 CS 457 Database Management Systems
 
 Just after deployment in 2012 during my last semester of undergrad I 
-took a class about databases where we were challenged to leverage some data
-science tools to do something interesting as a final project. Being passionate
-about insider trading I decided to collect all filings and run some analytics
-to test some of the theories I had read about and some others that I had 
-come up with over the year.
+took a class about databases. For the final project the challenge was to 
+leverage some data science tools to do something interesting. Immediately
+I knew what my topic would be. I  decided to collect all form 4's and run 
+some analytics. What a great opportunity to test some of the theories I had 
+read about and some others that I had cooked up.
 
 Now for some stats:
 
@@ -178,6 +184,8 @@ Interesting insights from this project:
 +  How not to normalize the data too much when destructured from XBRL
 +  How to calculate what I call "Similar Market Climate"
 
+
+===
 
 Similar Market Climate
 
@@ -207,11 +215,14 @@ time
 * In the end I didn't actually use the concept of "Similar Market Climate" as
 part of the Insider AI algorithm, but it was a fun idea to develop and explore.
 
+
+===
+
 Hiden Treasure
 
 In my humble opinion, ["Investment Intelligence from Insider Trading"](http://www.amazon.com/Investment-Intelligence-Insider-Trading-Seyhun/dp/0262692341) by Nejat Seyhun is the
 best resource for practical implementation of insider trading as a trading
-strategy. I highly recommend it :)
+strategy. I refer to it often and highly recommend it :)
 
 I'll briefly cover a few of the topics here and then dive deeper to each in
 later posts.
@@ -224,16 +235,143 @@ Within the pages Seyhun lies out his research and data from insider trading.
 + C level execs experience better than market average returns
 + combining insider with PE ratio and Price to book is interesting
 
-- read one up on wall street
+
+===
+
+
+- read [One Up On Wall Street](http://www.amazon.com/One-Up-On-Wall-Street/dp/0743200403)
 
 Peter Lynch specifies a few attributes of a perfect buy. He includes insider
 trading as one of those primary indicators.
 
 
-- tested a ton of strategies and some data science techniques from graduate and
-  - wanted to build a ranking system to rank insiders and only follow the top ones
-  - put screen shots of the versions available from the google drive doc.
-  - market climate using cosine similarity between prices over a set period of frequencies
+===
+
+Good Idea Fairy
+
+Since the beginning I've been cooking up many ideas about how to use insider
+trading data available from the SEC. For the sake of posterity and entertainment
+I'd like to enumerate them here.
+
+Trade(r) Rank: The goal of this idea is to rank all insiders by how well 
+they've done in the past and keep alog of really good traders. This would
+be used primarily to follow only the top x% of traders.
+
+I thought of a few ways of doing this. The easiest and most naiive solution
+was to order insiders by their average 3 or 6 month returns following their 
+transactions.
+
+I also considered including the insiders title and profile as part of the ranking. 
+For example I would give more weight to CEOs and CFOs who's background included
+advanced degrees in finance or math (this was never tested, just a hypothesis).
+
+In the end I think it's important to keep track of good insiders. Rather than
+keeping a list of good insiders we're keeping track of _how_ good each insider
+is and considering their track record at every trade.
+
+
+===
+
+Why Insider AI?
+
+The reason I built Insider AI was so that I could have a tool that allowed
+me to research and recieve alerts based on insider trading. After researching
+existing products I became frustrated for a few reasons.
+
+1) Everyone is late to the party. Take a look at other insider trading alert
+platforms out there and you'll have a tough time finding one that alerts you
+of trades minutes from when the trade occurs.
+2) Every existing mobile app for tracking or recieving insider trading alerts
+is either broken or doesn't send alerts.
+3) I've worked as an insider analyst for a consultancy catering to institutional 
+investment firms and think I can employ tried and true best practices while leveraging
+data science to ferret out the most interesting insider trades.
+
+People have approached me wanting to keep the algorithm and information private
+and either cater to institutional investment firms, or raise and build a firm
+myself. Maybe they're right. Either way your opportunity to get a piece of the
+action is now.
+
+PS: I really love the cross roads of finance, insider trading, and data science.
+I'm so lucky to have the tools to build something cool that works for me and
+hopefully you as well.
+
+===
+
+What took so long?
+
+As many of my close friends and family will tell you. I've been working on
+Insider AI for about half a decade. I've written code to poll the SEC in
+.NET C# a few times. I've written it to be super fast, responsive and multi 
+threaded. I've written the polling tool in javascript using node. And I've
+written a few versions now in Ruby. Each version I've learned so much. Every
+version has been a stepping stone and a milestone in my programming experience.
+
+At this point the mobile client has been rewritten many times as well. The primary
+focus of the mobile app has always been iOS. The first versions were written
+using Objective C. Later versions were written in phonegap, then Swift, and
+finally using Ionic Framework. I'm quite happy with the latest version and I'm
+excited to share it with you.
+
+A huge hurdle to actually putting something out there is honestly my own 
+imposter syndrome. I've always felt that there are much smarter people out 
+there doing the same thing. They must be doing it much better and have probably
+been doing it much longer. I've successfully suppressed the anxiety long 
+enough to request the app be published on the app store :)
+
+
+===
+
+Consulting
+
+My first job out of college was working for an insider trading consultancy.
+We provided daily analysis of insider trades to institutional clients and
+built a web application for those clients to search for and review the 
+curated data.
+
+Working for this company was great fun. I had the opportunity to write some
+code that enabled our research. Adding new statistics and my crazy bend to 
+the existing data. The code was mostly classic asp and the site is probably in
+need of a rewrite by now. While there I played two unique roles. The first 
+was insider analyst. Every day I would work with the other analysts to provide
+helpful feedback and my opinion about trades that happend the previous day.
+The second role was full stack developer. It was an interesting situation
+wearing those two hats. The best part was the passion I felt about insider
+trading as well as programming translated into really great days. 
+
+The company was based on the west coast, so we started at 5 AM in order to
+get the analysis out before market open. When interviewing for the job, they
+warned me that 5 AM is early. Having been in the military I thought nothing of 
+it. Towards the end of my time there the super early mornings started to drag
+on me a bit.
+
+I'm super greatful to have had the learning experience I did while working
+there and really appreciate the support those coworkers have provided. I learned
+a lot about finance, and the laws surrounding insider trading. I learned how 
+to analyze form 4's and how to dig into 10K's to find out more about a company.
+
+Surely spending more time there would have proved even more fruitful, however
+a new and different opportunity presented its self and I couldn't pass it up.
+After leaving the company I again started building from scratch, Insider AI.
+
+
+===
+
+IS Business Intelligence
+
+As part of a Business Intelligence course I decided again that working with
+insider trading data would be interesting. In the course we learned how to
+use Microsoft Business Intelligence studio to create Extract Transform Load 
+(ETL) processes and build Data Marts (DM). As a final project we built out
+an ETL and DM to consolidate all the transactions into a super denormalized
+format that we could easily run huge business intelligence processes on.
+
+This was really interesting and shed light on the correlations between profit
+after the trade and the transaction codes that were used on the trades. It
+gave a clear distinction between which transaction codes would be the most 
+profitable to follow. Pretty cool stuff :)
+
+===
 
 undergraduate data classes built versions 2 and 3 in these classes.
 - tracked down George at UNR lecture
@@ -243,9 +381,6 @@ undergraduate data classes built versions 2 and 3 in these classes.
   - added some cool charting features and helped with the product in addition
 to analyzing and publishing about trades.
 
-- Every one is late to the party
-- No one has a solid mobile app
-- I want to get alerts and trade immediately
 - took some time off and came back after refreshing my tool set and with lean 
 eyes. What really matters is the alerts.
 - rewrote in node js
@@ -257,6 +392,7 @@ data problem again.
 - consider talking about testing and how the donwloader has 500+ specs for parsing
 - consider talking about how hard the barier to entry is
 - talk about features i'd like to add
+   -  buy that right now!
    -  proximity to IPO
    -  tenure
    -  proximity to non huge events (management changes. not earnings)
@@ -273,14 +409,194 @@ data problem again.
 - technical pieces
   - talk about working on the sec_query gem
 
-  - talk about working on the koudoku gem
+====
+
+Open Source is Hard
+
+I "grew up" developing using mostly microsoft technologies. Along with that
+culture, in my experience, was a lot of people wanting to protect their
+ideas. Everything was compiled and it was difficult to view the source of 
+anything really. Being entrepreneurially minded this was good to me. I felt
+that if I had poured my heart and soul into some piece of code that it should
+belong to me and I should be able to charge people money to use it.
+
+All along I was using free packages available for download. Some were even
+open source. When you're a new developer it's extremely easy to take open
+source tools and work for granted. You read the readme.md file, download 
+the DLL and everything just seems to work seemlessly.
+
+In 2012 I moved my family from Reno to San Francisco. There were many changes
+and I had the opportunity of a lifetime. As a developer in Reno I got to 
+experience working for companies that embraced the Microsoft mindset and culture.
+Everything was closed source and every line of code was private. San Francisco
+is different from Reno in many many ways. My observations regarding tech
+culture in San Francisco is that people are extremely generous of their time
+and energy and willing to work on libraries and code for the good of dev 
+humanity. 
+
+At first it was really interesting to me that so many people were willing to 
+give their time on the side to work on these projects. What I learned is that
+many of the best open source projects are not just devs working from home in
+the mid night hours, but people employed by companies that are investing in 
+the future of development. The two great javascript projects that are always
+on my mind: Backbone greatly supported by New York Times, and angular mostly
+supported by Google.
+
+Over the past couple years I've started to contribute more and more to open
+source and feel strongly that together we can build shared code that will make
+everyones lives easier while at the same time not letting our intellectual
+property out into the wild.
+
+One of the hardest things when building out a project and considering what
+parts of it could be open source is really narrowing down on what the barriers
+to entry are for getting into the game. If you don't open source any code
+thats not very neighborly especially if you've done something novel that doesn't
+necesarily effect others doing the same thing. At the same time you don't want
+to let out your secret sauce either.
+
+Insider AI is built of a couple packages:
+
+1. Rails App
+  + handles authentication
+  + manages schema changes
+  + exposes an api for interacting with the data
+  + has rake tasks for downloading forms*
+  + has packages for parsing forms*
+2. Flask App
+  + handles machine learning*
+  + exposes an api for testing profitablility
+3. Ionic Mobile App
+  + Consumes https://insiderai.com/api/v1
+  + Has code for ios push notifications
+
+The primary reason Insider AI works as a business is because of two technical
+challenges that I invite you to embark on.
+
+1. collecting all historical trades for reference
+2. parsing the form4 documents
+
+The really tough part of doing insider trading research by hand is downloading
+and parsing the form4 documents. After really breaking it down I'm realizing
+that much of the parsing could probably be extracted into its own gem and 
+the rails app could also be open sourced.
+
+One thing I struggled with early on is what to open source. Does it make sense
+for other people to see code for a rails app? There's a pretty low chance users
+will want to contribute to the rails app, but there are other benefits from
+open sourcing. One is that someone else might find the code useful for reference.
+Another person might find it useful as an example of what not to do =D. An 
+interesting benefit that people often over look is that by putting your code 
+out into the world you're putting a piece of yourself out there. Hopefully, it's
+a well thought out, clean and organized piece of yourself and not your dirty 
+laundry.
+
+There exists a gem called [sec_query](https://github.com/tyrauber/sec_query).
+When I first downloaded and installed I wasn't sure what it bought me and it
+seemed pretty slow. The gem is a layer of abstraction for working with SEC
+data. One of its main features is to download and review form4 filings. It was
+written originally for doing one off queries to research companies. It makes
+adhoc get requests for lists of insders and companies. I found that the existing
+code base got me about 80% of the way there, but was interested in rewriting
+portions of it to fit my needs. After pinging the gem author Ty we were able
+to make some nice changes and add some really powerful features. Currently
+Insider AI uses sec_query as part of it's collection process.
+
+One of the killer features added SecQuery::Filing#for_date. This allows you
+to pass a date and a block. A filing object is yielded to the block for each
+filing found on that day. This is especially useful if you want to further
+parse, or download other things about the filing.
+
+Check it out:
+
+```ruby
+  SecQuery::Filing.for_date(some_date) do |filing|
+    # ...
+  end
+```
+
+The sec_query gem is a tool for ruby developers to interact with the SEC. 
+This is a pretty niche market in my mind: People interested in insider trading
+who also write ruby code...
+
+===
+
+Koudoku + Stripe
+
+The business model of Insider AI works on paid subscription model for alerts
+about insider trading. One of technical and business hurdles I faced while
+building the infrastructure was managing subscriptions, free trials and payment.
+
+I found a gem called [koudoku](https://github.com/andrewculver/koudoku) which
+did a ton of leg work for me.
+
+The documentation is great. Checkout the readme about how to get started. It's
+just a matter of getting some [stripe](https://stripe.com/) api keys, running 
+some generators and dropping some script tags in the layout.
+
+The one bug I found was when working with devise 3.3.0, but it looks like my
+pull request fixing this has been merged! :) Also a good sign if the
+maintainers welcome pull requests and actually follow open source principles.
+
+Overall koudoku has been a great solution for handling subscriptions.
+
+
+===
+
+Mom and pop style...
+
+I started out prototyping version 5 using ruby on rails and Heroku. It was 
+great to get up and running quickly. I'm addicted to heroku and have fallen
+in love with the convenience of their tools. They have so many bundles that
+always seem to work. For this particular project I started out with:
+
++ memcachier (caching)
++ sendgrid (sending email)
++ rpush (sending iOS push notifications)
++ ssl endpoint
++ postgres
++ new relic
+
+Each of these addon's was simple to add and simple to use. Admittedly Platform
+As A Service is powerful and heroku is doing things right.
+
+Heroku is free to use, but charges for special limits and addons. I started to
+pay $20/month just to have the SSL cert. Anything beyond 10 K rows in the db
+also starts to cost money.
+
+As much as I dislike system administration, I'm pretty comfortable configuring
+and running my own hardware and software. In order to cut my costs from heroku
+and not worry about limits I decided to move things off of heroku and down
+to my own hand crafted box.
+
+I built out a machine with a few Solid State Drives, 32 GB RAM, and Ubuntu 14.04.
+It's powerful, and I have complete freedom over the hardware and software. It
+was pretty simple to pull down the configs from heroku and get the rails app
+up and running.
+
+The hardest part of setting things up was learning how to configure nginx, 
+and phusion passenger with SSL.
+
+An incredible side benefit of having full control of the software is the
+ability to install and use whatever packages from other languages I please.
+This came in handy when our data team introduced a Flask micro service that
+leveraged scipy, numpy and scikit learn. These are python libraries living on
+the same box that handle all the machine learning for the Insider AI algorithm.
+
+I'm excited to one day move everything back off of my machine and into heroku
+or AWS, but first we need enough traffic and traction for that to make sense.
+
+The biggest downside to handling the dev ops internally is scaling. Because
+it's so early, I'm not to concerned with scaling to space, but scaling to
+handle lots of traffic will preempt a move back into a PAAS. The power to
+choose how many dyno's is incredible!
+
+For now, we'll keep it running in the basement mom and pop style.
+
 
   - talk about working on the stock_quote gem
 
   - talk about setting up passenger
-
   - talk about setting up nginx with ssl
-
   - talk about choosing a backend
     + .Net
     + Nodejs
@@ -299,7 +615,6 @@ data problem again.
   - talk about legal zoom
     + didn't get the name right
     + still don't have everything done
-
 
 - informational pieces
   - consider a piece where i review different academic articles
@@ -324,3 +639,5 @@ on how the company will do
     + in an attempt to be conservative and take advantage of the biggest price
 movement we expire ideas after 3 months
 
+talk about Jeff's description of the progress of insider ai.
++ constant up and then down always getting stronger
