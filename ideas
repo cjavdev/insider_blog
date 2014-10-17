@@ -594,7 +594,6 @@ For now, we'll keep it running in the basement mom and pop style.
 
 
   - talk about working on the stock_quote gem
-
   - talk about setting up passenger
   - talk about setting up nginx with ssl
   - talk about choosing a backend
