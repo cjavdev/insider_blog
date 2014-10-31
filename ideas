@@ -139,21 +139,21 @@
 /* really great trades from filings I read. The drawback: time commitment. I had */
 /* to sit and watch as filings came in. */
 /*  */
-===
-
-No more refresh!
-
-Sick of refreshing!!! At somepoint during deployment I started to use my short 
-sprints of horrendously slow civilian satelite connections to develop
-a super rough draft of what would eventually become Insider AI.
-
-There was some a web based IDE (that probably no longer exists) that would run 
-C# and ASP.NET. With this I wrote a RSS Feed reader that would poll the recent
-filings every 15 seconds. Using some basic filters based on recommendations from
-The Vital Few vs. Trivial Many it would popup an alert box  "Check the Page!"
-
-I told you it was a rough draft :)
-
+/* === */
+/*  */
+/* No more refresh! */
+/*  */
+/* Sick of refreshing!!! At somepoint during deployment I started to use my short  */
+/* sprints of horrendously slow civilian satelite connections to develop */
+/* a super rough draft of what would eventually become Insider AI. */
+/*  */
+/* There was some a web based IDE (that probably no longer exists) that would run  */
+/* C# and ASP.NET. With this I wrote a RSS Feed reader that would poll the recent */
+/* filings every 15 seconds. Using some basic filters based on recommendations from */
+/* The Vital Few vs. Trivial Many it would popup an alert box  "Check the Page!" */
+/*  */
+/* I told you it was a rough draft :) */
+/*  */
 ===
 
 CS 457 Database Management Systems
