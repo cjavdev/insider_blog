@@ -154,37 +154,37 @@
 /*  */
 /* I told you it was a rough draft :) */
 /*  */
-===
-
-CS 457 Database Management Systems
-
-Just after deployment in 2012 during my last semester of undergrad I 
-took a class about databases. For the final project the challenge was to 
-leverage some data science tools to do something interesting. Immediately
-I knew what my topic would be. I  decided to collect all form 4's and run 
-some analytics. What a great opportunity to test some of the theories I had 
-read about and some others that I had cooked up.
-
-Now for some stats:
-
-+  4.16 Million forms downloaded
-+  20 days to download
-+  13 K Companies
-+  150 K Insiders
-
-Tools used:
-
-+  C# and WPF
-+  [Libsvm](http://www.matthewajohnson.org/software/svm.html)
-+  Microsoft SQL Server 2012
-
-Interesting insights from this project:
-
-+  How to resolve the tens of different ticker symbol representations
-+  How not to normalize the data too much when destructured from XBRL
-+  How to calculate what I call "Similar Market Climate"
-
-
+/* === */
+/*  */
+/* CS 457 Database Management Systems */
+/*  */
+/* Just after deployment in 2012 during my last semester of undergrad I  */
+/* took a class about databases. For the final project the challenge was to  */
+/* leverage some data science tools to do something interesting. Immediately */
+/* I knew what my topic would be. I  decided to collect all form 4's and run  */
+/* some analytics. What a great opportunity to test some of the theories I had  */
+/* read about and some others that I had cooked up. */
+/*  */
+/* Now for some stats: */
+/*  */
+/* +  4.16 Million forms downloaded */
+/* +  20 days to download */
+/* +  13 K Companies */
+/* +  150 K Insiders */
+/*  */
+/* Tools used: */
+/*  */
+/* +  C# and WPF */
+/* +  [Libsvm](http://www.matthewajohnson.org/software/svm.html) */
+/* +  Microsoft SQL Server 2012 */
+/*  */
+/* Interesting insights from this project: */
+/*  */
+/* +  How to resolve the tens of different ticker symbol representations */
+/* +  How not to normalize the data too much when destructured from XBRL */
+/* +  How to calculate what I call "Similar Market Climate" */
+/*  */
+/*  */
 ===
 
 Similar Market Climate
